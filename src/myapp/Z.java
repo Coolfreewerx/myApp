@@ -1,5 +1,5 @@
 package myapp;
 
-public class Z {
-    }
+public class Z<string> {
+    string name;
 }
